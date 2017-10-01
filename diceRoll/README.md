@@ -1,0 +1,1 @@
+Created a simple dice rolling app allowing multiple dice with assignable values

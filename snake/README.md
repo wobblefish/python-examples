@@ -1,0 +1,1 @@
+A terminal version of the classic Snake game using the Curses python library to tweak and expand on
